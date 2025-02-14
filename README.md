@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Debargha Chatterjee  
+## Hi there 👋, I'm Debargha Chatterjee  
 
 I'm a Data Scientist based in Kolkata, West Bengal, with a strong foundation in Statistics. I enjoy working with data to uncover patterns, build predictive models, and develop AI-driven solutions that solve real-world problems.  
 
