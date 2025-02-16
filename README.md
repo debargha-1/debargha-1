@@ -6,7 +6,7 @@
 I'm a Data Scientist based in Kolkata, West Bengal, with a strong foundation in Statistics and a passion for uncovering insights from data. 
 I love building **predictive models**, leveraging **machine learning** and **natural language processing**, and developing **AI-driven solutions** that address real-world challenges.  
 
-🔍 What I Do  <br>• 📊 **Data Analysis & Visualization** – Transforming raw data into actionable insights.  <br>• 🤖 **Machine Learning & AI** – Designing models for fraud detection, text classification, and business optimization.  <br>• 🧠 **Natural Language Processing** – Extracting meaning from text data to improve decision-making.  <br>• 🛠️ **Tech Stack** – Python, R, SQL, Tableau, Power BI, and various ML/DL frameworks.  <br><br>💼 Work Experience  <br> **Data Scientist Intern** @ **AgenixAI** *(January 2025 - Present)*  <br>  • Developing and optimizing machine learning models for real-world applications.  <br>  • Working on AI-driven solutions to enhance business processes.  <br><br> **Data Analyst Intern** @ **Ozibook** *(Sept 2024 - Dec 2024)*  <br>  • Analyzed large datasets to extract insights and improve decision-making.  <br>  • Designed data visualization dashboards for better data representation.  
+🔍 What I Do  <br>• 📊 **Data Analysis & Visualization** – Transforming raw data into actionable insights.  <br>• 🤖 **Machine Learning & AI** – Designing models for fraud detection, text classification, and business optimization.  <br>• 🧠 **Natural Language Processing** – Extracting meaning from text data to improve decision-making.  <br>• 🛠️ **Tech Stack** – Python, R, SQL, Tableau, Power BI, and various ML/DL frameworks.
 
 
 ### 🌐 Socials:
