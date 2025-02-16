@@ -9,6 +9,8 @@ I love building **predictive models**, leveraging **machine learning** and **nat
 🔍 What I Do  <br>• 📊 **Data Analysis & Visualization** – Transforming raw data into actionable insights.  <br>• 🤖 **Machine Learning & AI** – Designing models for fraud detection, text classification, and business optimization.  <br>• 🧠 **Natural Language Processing** – Extracting meaning from text data to improve decision-making.  <br>• 🛠️ **Tech Stack** – Python, R, SQL, Tableau, Power BI, and various ML/DL frameworks.
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=debargha-1&style=flat-square&color=003366)
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debargha-chatterjee01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DChatterjee_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chatterjeedebargha16@gmail.com) 
 
